@@ -1,0 +1,220 @@
+<extend name="Base/common"/>
+
+<block name="style">
+    <link rel="stylesheet" href="__PUBLIC__/Admin/css/Common.css" />
+</block>
+
+<block name="content">
+    <div id="content" class="clearfix">
+        <ul class="nav nav-tabs">
+            <li class="active">
+                <a href="javascript:;" data-toggle="tab">菜单列表</a>
+            </li>
+            <li>
+                <a href="javascript:;" onclick="add()">添加菜单</a>
+            </li>
+        </ul>
+<form action="{:U('Admin/Nav/order')}" method="post">
+    <div id="myTabContent" class="tab-content">
+        <div class="tab-pane fade in active" id="home">
+            <table class="table table-striped table-bordered table-hover table-condensed">
+                <tr>
+                    <th width="5%">排序</th>
+                    <th>菜单名</th>
+                    <th>连接</th>
+                    <th>操作</th>
+                </tr>
+                <foreach name="data" item="v">
+                    <tr>
+                        <td>
+                            <input class="form-control" style="width:40px;height:25px;" type="text" name="{$v['id']}" value="{$v['order_number']}">
+                        </td>
+                        <td>{$v['_name']}</td>
+                        <td>{$v['url']}</td>
+                        <td>
+                            <a href="javascript:;" navId="{$v['id']}" navName="{$v['name']}"  onclick="add_child(this)">添加子菜单</a> |
+                            <a href="javascript:;" navId="{$v['id']}" navName="{$v['name']}" navMca="{$v['url']}"  onclick="edit(this)">修改</a> |
+                            <a href="javascript:" navId="{$v['id']}" onclick="del(this)">删除</a>
+                        </td>
+                    </tr>
+                </foreach>
+                <tr>
+                    <th>
+                        <button type="submit" class="btn btn-info">排序</button>
+                    </th>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</form>
+<!-- 添加菜单模态框开始 -->
+<div class="modal fade" id="wcs-add" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="myModalLabel">
+                    添加菜单
+                </h4>
+            </div>
+            <div class="modal-body">
+                <form id="wcs-form" class="form-inline" action="{:U('Admin/Nav/add')}" method="post">
+                    <input type="hidden" name="pid" value="0">
+                    <table class="table table-striped table-bordered table-hover table-condensed">
+                        <tr class="text-center">
+                            <th width="16%">菜单名:</th>
+                            <td>
+                                <input class="form-control" type="text" name="name">
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>连接:</th>
+                            <td>
+                                <input class="form-control" type="text" name="url"> 输入模块/控制器/方法即可 例如 Admin/Nav/index
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <th></th>
+                            <td>
+                                <button type="submit" class="btn btn-success">添加</button>
+                                <button type="button" class="btn btn-info"  data-dismiss="modal" aria-hidden="true">
+                                    取消
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 添加菜单模态框结束 -->
+
+<!-- 修改菜单模态框开始 -->
+<div class="modal fade" id="wcs-edit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="myModalLabel">
+                    修改菜单
+                </h4>
+            </div>
+            <div class="modal-body">
+                <form id="wcs-form" class="form-inline" action="{:U('Admin/Nav/edit')}" method="post">
+                    <input type="hidden" name="id">
+                    <table class="table table-striped table-bordered table-hover table-condensed">
+                        <tr class="text-center">
+                            <th width="15%">菜单名：</th>
+                            <td>
+                                <input class="form-control" type="text" name="name">
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>连接：</th>
+                            <td>
+                                <input class="form-control" type="text" name="url"> 输入模块/控制器/方法即可 例如 Admin/Nav/index
+                            </td>
+                        </tr>
+                        <tr>
+                            <th></th>
+                            <td>
+                                <button type="submit" class="btn btn-success">修改</button>
+                                <button type="button" class="btn btn-info"  data-dismiss="modal" aria-hidden="true">
+                                    取消
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- 修改菜单模态框结束 -->
+
+        <!-- 删除菜单模态框开始 -->
+        <div class="modal fade" id="wcs-delete" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                            &times;
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">
+                            删除菜单
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        <form id="wcs-form" class="form-inline" action="">
+                            <table class="table table-striped table-bordered table-hover table-condensed">
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <button type="submit" class="btn btn-success">删除</button>
+                                        <button type="button" class="btn btn-info"  data-dismiss="modal" aria-hidden="true">
+                                            取消
+                                        </button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 删除菜单模态框结束 -->
+    </div>
+</block>
+
+<block name="script">
+
+<script>
+    // 添加菜单
+    function add(){
+        $("input[name='name'],input[name='url']").val('');
+        $("input[name='pid']").val(0);
+        $('#wcs-add').modal('show');
+    }
+
+    // 添加子菜单
+    function add_child(obj){
+        var navId=$(obj).attr('navId');
+        $("input[name='pid']").val(navId);
+        $("input[name='name']").val('');
+        $("input[name='url']").val('');
+        $('#wcs-add').modal('show');
+    }
+
+    // 修改菜单
+    function edit(obj){
+        var navId=$(obj).attr('navId');
+        var navName=$(obj).attr('navName');
+        var navMca=$(obj).attr('navMca');
+        //alert(navMca);
+        $("input[name='id']").val(navId);
+        $("input[name='name']").val(navName);
+        $("input[name='url']").val(navMca);
+        $('#wcs-edit').modal('show');
+    }
+
+    // 删除
+    function del(obj){
+        var navId=$(obj).attr('navId');
+        $('#wcs-delete').modal('show');
+        var url = "{:U('Admin/Nav/delete')}";
+        var newUrl = url.replace(/\.html$/, "")+"/id/"+navId;
+        $('#wcs-delete').find('form').attr('action', newUrl);
+        $('#wcs-delete').modal('show');
+        console.log(newUrl);
+    }
+
+</script>
+</block>

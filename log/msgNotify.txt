@@ -1,0 +1,30 @@
+============= 开始执行 ============
+======= 执行时间 2017-01-07 22:31:59=========
+
+array (
+  'code' => '11',
+  'msg' => 'Insufficient isv permissions',
+  'sub_code' => 'isv.permission-ip-whitelist-limit',
+  'sub_msg' => 'The appkey 23540374 is only allowed to call from its ip white list, but the source ip 61.242.42.182 is not included',
+  'request_id' => 'qm2yrpspp49d',
+)
+
+============= 执行结束 ============
+
+
+
+============= 开始执行 ============
+======= 执行时间 2017-03-09 18:23:26=========
+
+array (
+  'code' => '11',
+  'msg' => 'Insufficient isv permissions',
+  'sub_code' => 'isv.permission-ip-whitelist-limit',
+  'sub_msg' => 'The appkey 23540374 is only allowed to call from its ip white list, but the source ip 119.130.105.30 is not included',
+  'request_id' => 'epvf13f5n0of',
+)
+
+============= 执行结束 ============
+
+
+

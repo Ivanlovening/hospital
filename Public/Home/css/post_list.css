@@ -1,0 +1,79 @@
+.post_list {
+  width: 100%;
+}
+.post_list li {
+  width: 100%;
+  box-sizing: border-box;
+}
+.post_list li a {
+  display: block;
+  color: #000;
+}
+.post_list li a h5 {
+  font-size: .32rem;
+  background: #f8f8f8;
+  color: #a3a3a3;
+  line-height: .8rem;
+  letter-spacing: .01333333rem;
+}
+.post_list li a .content {
+  width: 100%;
+  padding: 0 0.66666667rem 0.13333333rem 0.66666667rem;
+  border-bottom: 0.01333333rem solid #dbdcdc;
+  box-sizing: border-box;
+  background: #fff;
+}
+.post_list li a .content h6 {
+  width: 100%;
+  height: .88rem;
+  line-height: .88rem;
+  font-size: .4rem;
+}
+.post_list li a .content h6 span {
+  float: right;
+  font-size: .26666667rem;
+  color: #a3a3a3;
+  line-height: .82666667rem;
+  padding-left: .61333333rem;
+  position: relative;
+}
+.post_list li a .content h6 span:after {
+  content: '';
+  width: .42666667rem;
+  height: .4rem;
+  background: url(../img/icon.png) no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -0.14666667rem -1.8rem;
+  position: absolute;
+  left: 0;
+  top: .18666667rem;
+}
+.post_list li a .content p {
+  font-size: .32rem;
+  line-height: .4rem;
+  margin-bottom: .05rem;
+}
+.post_list li a .content .content_bottom {
+  width: 100%;
+  height: .5333333333333333rem;
+  line-height: .5333333333333333rem;
+  position: relative;
+}
+.post_list li a .content .content_bottom .source,
+.post_list li a .content .content_bottom .source_date {
+  font-size: .26666667rem;
+  color: #a3a3a3;
+}
+.post_list li a .content .content_bottom .source {
+  padding-right: 0.5rem;
+}
+.post_list li a .content .content_bottom .red_heart {
+  width: .56rem;
+  height: .56rem;
+  background: url(../img/icon.png) no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: 0 -0.16rem;
+  position: absolute;
+  right: -0.13333333rem;
+  bottom: 0;
+}

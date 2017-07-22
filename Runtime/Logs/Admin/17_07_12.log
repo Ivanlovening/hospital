@@ -1,0 +1,160 @@
+[ 2017-07-12T09:01:23+08:00 ] 127.0.0.1 /www.hospital.com/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined index: shop D:\MAMP\htdocs\www.hospital.com\Application\Admin\Controller\BaseController.class.php 第 28 行.
+
+[ 2017-07-12T09:01:24+08:00 ] 127.0.0.1 /www.hospital.com/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `hs_ucenter_member` [ RunTime:0.1310s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.012619s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012696s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.216617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.216677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014013s ]
+
+[ 2017-07-12T09:01:27+08:00 ] 127.0.0.1 /www.hospital.com/index.php/Admin/Login/trylogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `hs_ucenter_member` [ RunTime:0.0434s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT * FROM `hs_ucenter_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0341s ]
+SQL: UPDATE `hs_ucenter_member` SET `last_login_time`='1499821287',`last_login_ip`='2130706433' WHERE `id` = 1 [ RunTime:0.0405s ]
+SQL: SELECT `shop_id` FROM `hs_ucenter_member` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-07-12T09:01:27+08:00 ] 127.0.0.1 /www.hospital.com/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `hs_auth_group_access` [ RunTime:0.0482s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM hs_auth_group_access a INNER JOIN hs_auth_group g on a.group_id=g.id  WHERE ( a.uid='0' and g.status='1' )  [ RunTime:0.0428s ]
+SQL: SHOW COLUMNS FROM `hs_auth_rule` [ RunTime:0.0361s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT `condition`,`name` FROM `hs_auth_rule` WHERE `id` IN ('2','21','22','3','19','20','32','33','35') AND `type` = 1 AND `status` = 1  [ RunTime:0.0304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined index: member D:\MAMP\htdocs\www.hospital.com\Application\Common\Common\function.php 第 1014 行.
+SQL: SHOW COLUMNS FROM `hs_order` [ RunTime:0.0615s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hs_order` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0558s ]
+NOTIC: [8] Undefined index: member D:\MAMP\htdocs\www.hospital.com\Application\Common\Common\function.php 第 1014 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hs_order` WHERE `status` = 6 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: member D:\MAMP\htdocs\www.hospital.com\Application\Common\Common\function.php 第 1014 行.
+SQL: SHOW COLUMNS FROM `hs_order` [ RunTime:0.0061s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hs_order` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: member D:\MAMP\htdocs\www.hospital.com\Application\Common\Common\function.php 第 1014 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hs_order` WHERE `status` = 6 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] Declaration of Admin\Model\NavModel::getTreeData($type = 'tree', $order = '') should be compatible with Admin\Model\BaseModel::getTreeData($type = 'tree', $order = '', $name = 'name', $child = 'id', $parent = 'pid') D:\MAMP\htdocs\www.hospital.com\Application\Admin\Model\NavModel.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `hs_nav` [ RunTime:0.0251s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT * FROM `hs_nav` ORDER BY order_number is null,order_number,id  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `hs_auth_group_access` [ RunTime:0.0053s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM hs_auth_group_access a INNER JOIN hs_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `hs_auth_rule` [ RunTime:0.0058s ]
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\MAMP\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT `condition`,`name` FROM `hs_auth_rule` WHERE `id` IN ('1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','77','78','79') AND `type` = 1 AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\MAMP\htdocs\www.hospital.com\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 144 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.219720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.219764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+

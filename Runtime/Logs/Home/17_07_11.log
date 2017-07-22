@@ -1,0 +1,9 @@
+[ 2017-07-11T21:43:35+08:00 ] 192.168.19.128 /www.hospital.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013690s ]
+ERR: 无法加载控制器:Index
+

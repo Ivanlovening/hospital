@@ -1,0 +1,207 @@
+#wrapper {
+  padding-top: 0.26666667rem;
+}
+#wrapper .content .personal_info {
+  background: #fff;
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+}
+#wrapper .content .head_sculpture {
+  padding: 0.2666666666666667rem;
+  border-bottom: 1px solid #f1f2f2;
+}
+#wrapper .content .head_sculpture .head_text {
+  font-size: 0.4rem;
+  line-height: 1.866666666666667rem;
+}
+#wrapper .content .head_sculpture .head_img {
+  width: 1.866666666666667rem;
+  border-radius: 50%;
+}
+.nickname_box,
+.phone_box,
+.membership_level_box,
+.integral {
+  width: 100%;
+  padding: 0 0.2666666666666667rem;
+  box-sizing: border-box;
+  border-bottom: 1px solid #f1f2f2;
+}
+.nickname_box .item,
+.phone_box .item,
+.membership_level .item,
+.integral .item {
+  height: 1.333333333333333rem;
+  line-height: 1.333333333333333rem;
+  text-align: center;
+  font-size: 0.4rem;
+}
+.nickname_box .item_detial,
+.phone_box .item_detial,
+.membership_level .item_detial,
+.integral .item_detial {
+  color: #a3a3a3;
+  font-size: 0.34666667rem;
+  line-height: 1.333333333333333rem;
+  text-align: center;
+}
+.membership_level_box .membership_level {
+  border-bottom: 1px solid #f1f2f2;
+}
+.membership_level_box .btn_complete {
+  font-size: 0.32rem;
+  color: #ed1c24;
+  line-height: 0.92rem;
+  display: block;
+  text-align: right;
+  padding-right: 0.4rem;
+  box-sizing: border-box;
+  position: relative;
+}
+.membership_level_box .btn_complete:after {
+  content: '';
+  width: 0.21333333rem;
+  height: 0.4rem;
+  background: url("../../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -4.64rem -1.86666667rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.integral {
+  padding-right: 1.73333333rem;
+  position: relative;
+}
+.integral .btn_recharge {
+  display: block;
+  width: 1.33333333rem;
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  text-align: right;
+  font-size: 0.32rem;
+  color: #ed1c25;
+  padding-right: 0.4rem;
+  box-sizing: border-box;
+  position: absolute;
+  right: 0.26666667rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.integral .btn_recharge:after {
+  content: '';
+  width: 0.21333333rem;
+  height: 0.4rem;
+  background: url("../../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -4.64rem -1.86666667rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.shipping_address {
+  width: 100%;
+  position: relative;
+  background: #fff;
+}
+.shipping_address .title {
+  padding: 0 0.66666667rem;
+  box-sizing: border-box;
+  width: 100%;
+  line-height: 0.61333333rem;
+  font-size: 0.4rem;
+  color: #a3a3a3;
+  padding-top: 0.42666667rem;
+  background: #f1f2f2;
+}
+.shipping_address .default_address {
+  width: 100%;
+  padding: 0 0.66666667rem;
+  box-sizing: border-box;
+  border-bottom: 1px solid #f1f2f2;
+}
+.shipping_address .default_address .name_phone {
+  width: 100%;
+  font-size: 0.34666667rem;
+  color: #a1a1a1;
+  line-height: 0.8rem;
+}
+.shipping_address .default_address .name_phone .name {
+  float: left;
+}
+.shipping_address .default_address .name_phone .phone {
+  margin-left: 0.4rem;
+}
+.shipping_address .default_address .ad {
+  width: 100%;
+  padding-left: 0.64rem;
+  box-sizing: border-box;
+  line-height: 0.66666667rem;
+  font-size: 0.32rem;
+  position: relative;
+}
+.shipping_address .default_address .ad:before {
+  content: '';
+  width: 0.28rem;
+  height: 0.36rem;
+  background: url("../../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -5.26666667rem -1.88rem;
+  position: absolute;
+  left: 0;
+  top: 0.16rem;
+}
+.shipping_address .ad_option {
+  width: 100%;
+  padding: 0 0.61333333rem;
+  box-sizing: border-box;
+  line-height: 0.93333333rem;
+  background: #fff;
+}
+.shipping_address .ad_option > span {
+  line-height: 0.93333333rem;
+  font-size: 0.34666667rem;
+  color: #a3a3a3;
+  padding-left: 0.64rem;
+  position: relative;
+  float: left;
+}
+.shipping_address .ad_option > span:before {
+  content: '';
+  width: 0.53333333rem;
+  height: 0.53333333rem;
+  background: url(../../img/icon.png) no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -0.8rem -1.08rem;
+  position: absolute;
+  left: -0.08rem;
+  top: 0.2rem;
+  -webkit-transform: scale(0.7);
+  transform: scale(0.7);
+}
+.shipping_address .ad_option .btn_switch {
+  float: right;
+  font-size: 0.32rem;
+  color: #ed1c24;
+  padding-right: 0.37333333rem;
+  position: relative;
+}
+.shipping_address .ad_option .btn_switch:after {
+  content: '';
+  width: 0.21333333rem;
+  height: 0.4rem;
+  background: url(../../img/icon.png) no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -4.64rem -1.86666667rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}

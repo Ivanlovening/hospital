@@ -1,0 +1,137 @@
+.wrap {
+  width: 100%;
+}
+.wrap h4 {
+  width: 100%;
+  text-indent: 1.01333333rem;
+  line-height: 1.33333333rem;
+  font-size: 0.34666667rem;
+  border-bottom: 1px solid #dddede;
+  background: #fff;
+}
+.wrap .location_box {
+  background: #fff;
+  width: 100%;
+  padding: 0.18666667rem 0;
+  height: 1.34666667rem;
+  line-height: 1.34666667rem;
+  position: relative;
+}
+.wrap .location_box .text_box {
+  width: 5.89333333rem;
+  padding-left: 0.93333333rem;
+  height: 0.96rem;
+  line-height: 0.96rem;
+  left: 0.4rem;
+}
+.wrap .location_box .text_box:before {
+  content: '';
+  width: 0.30666667rem;
+  height: 0.41333333rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -2.72rem -2.66666667rem;
+  position: absolute;
+  left: 0.18666667rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.wrap .location_box .text_box .text {
+  width: 5.89333333rem;
+  height: 100%;
+  left: 0.93333333rem;
+  font-size: 0.4rem;
+  color: #000000;
+}
+.wrap .location_box .btn_go {
+  width: 0.74666667rem;
+  height: 0.74666667rem;
+  right: 1.89333333rem;
+}
+.wrap .location_box .btn_go:before {
+  content: '';
+  width: 0.21333333rem;
+  height: 0.4rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -0.97333333rem -2.66666667rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.wrap .location_box .my_position {
+  width: 1.76rem;
+  height: 1.25333333rem;
+  right: 0;
+}
+.wrap .location_box .my_position:before {
+  content: '';
+  width: 0.46666667rem;
+  height: 0.46666667rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -3.70666667rem -1.8rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0.13333333rem;
+  margin: auto;
+}
+.wrap .location_box .my_position:after {
+  width: 100%;
+  text-align: center;
+  line-height: 0.4rem;
+  content: '我的位置';
+  font-size: 0.32rem;
+  color: #a3a3a3;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  bottom: 0;
+}
+.wrap .content {
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+}
+.wrap .content h5 {
+  font-size: 0.34666667rem;
+  color: #a3a3a3;
+  line-height: 0.66666667rem;
+  text-indent: 0.32rem;
+  padding-top: 0.13333333rem;
+}
+.wrap .content .list {
+  width: 100%;
+  padding-top: 0.26666667rem;
+}
+.wrap .content .list li {
+  width: 100%;
+  padding: 0 0.58666667rem 0.4rem;
+  box-sizing: border-box;
+  line-height: 0.8rem;
+  background: #fff;
+  font-size: 0.34666667rem;
+  position: relative;
+  margin-bottom: 0.26666667rem;
+}
+.wrap .content .list li h6 {
+  color: #ea212d;
+  font-size: 0.34666667rem;
+}
+.wrap .content .list li h6:before {
+  content: '';
+  width: 0.25333333rem;
+  height: 0.33333333rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -1.74666667rem -2.66666667rem;
+  position: absolute;
+  top: 0.22666667rem;
+  left: 0.21333333rem;
+}

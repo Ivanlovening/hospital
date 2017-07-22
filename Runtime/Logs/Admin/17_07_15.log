@@ -1,0 +1,67 @@
+[ 2017-07-15T02:47:40+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+NOTIC: [8] Undefined index: shop D:\amp\apache24\htdocs\www.hospital.com\Application\Admin\Controller\BaseController.class.php 第 28 行.
+
+[ 2017-07-15T02:47:41+08:00 ] 127.0.0.1 /index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `hs_ucenter_member` [ RunTime:0.1943s ]
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000404s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000594s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.349900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.350692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013892s ]
+
+[ 2017-07-15T02:47:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/trylogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `hs_ucenter_member` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+NOTIC: [8] Undefined index: default- D:\amp\apache24\htdocs\www.hospital.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 67 行.
+SQL: SELECT * FROM `hs_ucenter_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001865s ]
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>jquery省市区三级联动</title>
+	<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>	
+</head>
+<body>
+<p>&nbsp;</p>
+<div class="row">
+	<div class="col-sm-12">
+		<div class="form-group">
+			<label class="control-label col-sm-2">所在区域</label>
+			<div class="col-sm-3">
+				<select name="input_province" id="input_province" class="form-control">
+				</select>
+			</div>
+			<div class="col-sm-3">
+				<select name="input_city" id="input_city" class="form-control">
+				</select>
+			</div>
+			<div class="col-sm-3">
+				<select name="input_area" id="input_area" class="form-control">
+				</select>
+			</div>
+		</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+<div class="row text-center">数据来源：<a href="http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201504/t20150415_712722.html" target="_blank">http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201504/t20150415_712722.html</a></div>
+<script type="text/javascript" src="pdata.js"></script>
+<script type="text/javascript">
+	$(function () {
+		var html = "<option value=''>== 请选择 ==</option>"; $("#input_city").append(html); $("#input_area").append(html);
+		$.each(pdata,function(idx,item){
+			if (parseInt(item.level) == 0) {
+   				html += "<option value='" + item.names + "' exid='" + item.code + "'>" + item.names + "</option>";
+   			}
+		});
+		$("#input_province").append(html);
+
+		$("#input_province").change(function(){
+			if ($(this).val() == "") return;
+			$("#input_city option").remove(); $("#input_area option").remove();
+			var code = $(this).find("option:selected").attr("exid"); code = code.substring(0,2);
+			var html = "<option value=''>== 请选择 ==</option>"; $("#input_area").append(html);
+			$.each(pdata,function(idx,item){
+				if (parseInt(item.level) == 1 && code == item.code.substring(0,2)) {
+	   				html += "<option value='" + item.names + "' exid='" + item.code + "'>" + item.names + "</option>";
+	   			}
+			});
+			$("#input_city").append(html);		
+		});
+
+		$("#input_city").change(function(){
+			if ($(this).val() == "") return;
+			$("#input_area option").remove();
+			var code = $(this).find("option:selected").attr("exid"); code = code.substring(0,4);
+			var html = "<option value=''>== 请选择 ==</option>";
+			$.each(pdata,function(idx,item){
+				if (parseInt(item.level) == 2 && code == item.code.substring(0,4)) {
+	   				html += "<option value='" + item.names + "' exid='" + item.code + "'>" + item.names + "</option>";
+	   			}
+			});
+			$("#input_area").append(html);		
+		});
+		//绑定
+		$("#input_province").val("广东省");$("#input_province").change();
+		$("#input_city").val("深圳市");$("#input_city").change();
+		$("#input_area").val("罗湖区");
+
+	});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+.dataTables_info{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+div.dataTables_paginat{
+    margin-top: 10px;
+}
+.table thead th:first-child, .table tbody td:first-child {
+    text-align: center;
+}
+.page > a,span.current,span.rows {
+    display: inline-block !important;
+    float: left !important;
+    padding: 0 14px !important;
+    line-height: 28px !important;
+    text-decoration: none !important;
+    border: 1px solid #c4c4c4 !important;
+    border-left-width: 1px !important;
+    background-color: #f3f3f3 !important;
+    background: rgb(255,255,255) !important;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+) !important;
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 1%, rgba(243,243,243,1) 100%) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(255,255,255,1)), color-stop(100%,rgba(243,243,243,1))) !important;
+    background: -webkit-linear-gradient(top, rgba(255,255,255,1) 1%,rgba(243,243,243,1) 100%) !important;
+    background: -o-linear-gradient(top, rgba(255,255,255,1) 1%,rgba(243,243,243,1) 100%) !important;
+    background: -ms-linear-gradient(top, rgba(255,255,255,1) 1%,rgba(243,243,243,1) 100%) !important;
+    background: linear-gradient(top, rgba(255,255,255,1) 1%,rgba(243,243,243,1) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f3f3f3',GradientType=0 ) !important;
+    min-height: 28px !important;
+    color: #717171 !important;
+    box-shadow: 0 1px 0 #eaeaea ,0 1px 0 #fff inset !important;
+    margin-right: 4px ;
+    -webkit-border-radius: 2px 2px 2px 2px !important;
+    -moz-border-radius: 2px 2px 2px 2px !important;
+    border-radius: 2px 2px 2px 2px !important;
+    font-weight: 700 !important;
+    margin-bottom: 10px !important;
+}
+.page a:hover {
+    border: 1px solid #a3a3a3 !important;
+    background: #e8e6e6 !important;
+}
+.page span.current {
+    color: #f2f2f2 !important;
+    box-shadow: 0 1px 0 #eaeaea ,0 1px 0 #67c3da inset !important;
+    border-color: #5098aa !important;
+    background: #88BBC8 !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled='false') !important;
+}
+.page{
+    /*position: absolute;
+    right:0px;*/
+    margin-top: 10px;
+}
+span.rows{
+    margin-right: 350px;!important;
+}
+
+.nav-tabs{
+    height: 41px;
+    margin-top: 20px;
+}
+.modal-title{
+    height: 30px;
+}

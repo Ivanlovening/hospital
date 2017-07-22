@@ -1,0 +1,307 @@
+/*order_index*/
+.order_index {
+    top:1.466666666666667rem!important;
+    bottom:0!important
+}
+.order_index .content>li .o {
+    margin-bottom:.16rem;
+    background:#fff
+}
+.order_index .content>li .o .info_bar {
+    width:100%;
+    height:1.066666666666667rem;
+    line-height:1.066666666666667rem;
+    padding:0 .4rem;
+    box-sizing:border-box;
+    font-size:.32rem
+}
+.order_index .content>li .o .info_bar .orderNo_box {
+    width:75%;
+    float:left;
+    box-sizing:border-box
+}
+.order_index .content>li .o .info_bar .status {
+    color:#ed1c24;
+    width:21%;
+    float:right;
+    text-align:right;
+    box-sizing:border-box
+}
+/*.order_index .list {
+    width:100%
+}
+.order_index .list>li {
+    width:100%;
+    background:#f1f2f2;
+    margin-bottom:.1333333333333333rem;
+    padding:.2666666666666667rem .4rem;
+    box-sizing:border-box;
+    position:relative
+}
+.order_index .list>li .order_img {
+    width:2.133333333333333rem;
+    float:left;
+    display:block
+}
+.order_index .list>li .info_box {
+    position:absolute;
+    left:2.96rem;
+    top:.2666666666666667rem;
+    right:.4rem;
+    bottom:.2666666666666667rem
+}
+.order_index .list>li .info_box>h3 {
+    font-size:.3466666666666667rem;
+    line-height:.5066666666666667rem;
+    padding-top:.0533333333333333rem
+}
+.order_index .list>li .info_box .version {
+    line-height:.56rem;
+    width:100%;
+    color:#a3a3a3;
+    font-size:.2666666666666667rem;
+    margin-bottom:.1066666666666667rem
+}
+.order_index .price_box {
+    font-size:.4rem;
+    line-height:1
+}
+.order_index .price_box .price {
+    width:40%;
+    float:left
+}
+.order_index .price_box .num {
+    width:40%;
+    float:right;
+    font-size:.3733333333333333rem;
+    color:#ed1c24;
+    text-align:right
+}
+.order_index .total_box {
+    width:100%;
+    height:.9866666666666666rem;
+    line-height:.8533333333333333rem;
+    padding:0 .36rem .1333333333333333rem .4rem;
+    box-sizing:border-box;
+    font-size:.2666666666666667rem;
+    border-bottom:1px solid #f1f2f2
+}
+.order_index .total_box .total_wrap {
+    display:inline-block;
+    float:right
+}
+.order_index .total_box .item_goods {
+    display:inline-block;
+    padding-right:.2rem;
+    float:left
+}
+.order_index .total_box .item_num {
+    float:left;
+    display:inline-block;
+    position:relative;
+    padding-left:.75rem;
+    box-sizing:border-box
+}
+.order_index .total_box .item_num>span {
+    font-size:.48rem;
+    color:#ed1c24
+}
+.order_index .total_box .item_num:before {
+    content:'合计:';
+    position:absolute;
+    left:0;
+    top:0;
+    bottom:0;
+    margin:auto
+}
+.order_index .total_box .item_freight {
+    float:right;
+    display:inline-block;
+    font-size:.2666666666666667rem;
+    text-align:right
+}
+.order_index .btn_box {
+    width:100%;
+    padding:0 .4rem;
+    box-sizing:border-box
+}
+.order_index .btn_box .btn_wrap {
+    padding:.2133333333333333rem 0;
+    display:inline-block;
+    line-height:.6666666666666667rem;
+    font-size:.32rem;
+    float:right
+}
+.order_index .btn_box .btn {
+    padding:0 .24rem;
+    float:left;
+    margin-left:.24rem
+}
+.order_index .btn_box .btn_link {
+    color:#a3a3a3
+}
+.order_index .btn_box .btn_detail {
+    color:#ed1c24
+}
+.order_index .btn_box .btn_act {
+    background:#ed1c24;
+    color:#f2f2f2
+}
+*/
+.order_index .deliver .o .btn_link,.order_index .evaluated .o .btn_link,.order_index .pay .o .btn_link {
+    border:.0133333333333333rem solid #a3a3a3
+}
+.order_index .evaluated .o .btn_detail,.order_index .pay .o .btn_detail,.order_index .received .o .btn_detail {
+    border:.0133333333333333rem solid #ed1c24
+}
+.order_index .deliver .o .btn_act,.order_index .evaluated .o .btn_confirm,.order_index .pay .o .btn_confirm,.order_index .received .o .btn_confirm {
+    padding:.0133333333333333rem .24rem!important
+}
+/*order_status*/
+#wrapper{
+    top: 1.466666666666667rem;
+}
+.list_wrap{
+
+}
+.list_wrap>li{
+    margin-bottom: 0.16rem;
+    background: #fff;
+}
+.list_wrap>li .info_bar{
+    width: 100%;
+    height: 1.066666666666667rem;
+    line-height: 1.066666666666667rem;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+    font-size: 0.32rem;
+}
+.list_wrap>li .info_bar .orderNo_box{
+    width: 60%;
+    float: left;
+    box-sizing: border-box;
+}
+.list_wrap>li .info_bar .status{
+    color: #ed1c24;
+    width: 40%;
+    float: right;
+    text-align: right;
+    box-sizing: border-box;
+}
+.list{
+    width: 100%;
+}
+.list>li{
+    width: 100%;
+    background: #f1f2f2;
+    margin-bottom: 0.1333333333333333rem;
+    padding: 0.2666666666666667rem 0.4rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.list>li .order_img{
+    width: 22%;
+    float:left;
+    display:block;
+}
+.list>li .info_box{
+    float: right;
+    width: 72%;
+}
+.list>li .info_box>h3{
+    font-size: 0.3466666666666667rem;
+    line-height: 0.5066666666666667rem;
+    padding-top: 0.0533333333333333rem;
+}
+.list>li .info_box .version{
+    line-height: 0.56rem;
+    width: 100%;
+    color: #a3a3a3;
+    font-size: 0.2666666666666667rem;
+    margin-bottom: 0.1066666666666667rem;
+}
+.price_box {
+    font-size: 0.4rem;
+    line-height: 1;
+}
+.price_box .price{
+    width: 40%;
+    float: left;
+}
+.price_box .num{
+    width: 40%;
+    float: right;
+    font-size: 0.3733333333333333rem;
+    color: #ed1c24;
+    text-align: right;
+}
+.total_box{
+    width: 100%;
+    height: 0.9866666666666666rem;
+    line-height: 0.8533333333333333rem;
+    padding: 0 0.36rem 0.1333333333333333rem 0.4rem;
+    box-sizing: border-box;
+    font-size: 0.2666666666666667rem;
+    border-bottom: 1px solid #f1f2f2;
+}
+.total_box .total_wrap{
+    display: inline-block;
+    float: right;
+}
+.total_box .item_goods{
+    display: inline-block;
+    padding-right: 0.2rem;
+    float: left;
+}
+.total_box  .item_num{
+    float: left;
+    display: inline-block;
+    position: relative;
+    padding-left: 0.75rem;
+    box-sizing: border-box;
+}
+.total_box  .item_num>span{
+    font-size: 0.48rem;
+    color: #ed1c24;
+}
+.total_box  .item_num:before{
+    content: '合计:';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.total_box .item_freight{
+    float: right;
+    display: inline-block;
+    font-size: 0.2666666666666667rem;
+    text-align: right;
+}
+.btn_box{
+    width: 100%;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+}
+.btn_box .btn_wrap{
+    padding: 0.2133333333333333rem 0;
+    display: inline-block;
+    line-height: 0.6666666666666667rem;
+    font-size: 0.32rem;
+    float: right;
+}
+.btn_box .btn{
+    padding: 0 0.24rem;
+    float: left;
+    margin-left: 0.24rem;
+}
+.btn_box .btn_link{
+    color: #a3a3a3;
+}
+.btn_box .btn_detail{
+    color: #ed1c24;
+}
+.btn_box .btn_act{
+    background: #ed1c24;
+    color: #f2f2f2;
+}

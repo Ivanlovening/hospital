@@ -1,0 +1,33 @@
+#wrapper {
+  border-top: 0.21333333rem solid #f1f2f2;
+}
+.content {
+  width: 100%;
+}
+.content .congratulation {
+  padding: 0.85333333rem 0 1.01333333rem;
+  font-size: 0.4rem;
+  text-align: center;
+  line-height: 0.82666667rem;
+  background: #fff;
+  border-bottom: 1px solid #f1f2f2;
+}
+.content .prompt {
+  width: 100%;
+  background: #fff;
+  text-align: center;
+  font-size: 0.34666667rem;
+  color: #ed1c24;
+  line-height: 1.6rem;
+}
+.content .btn_go {
+  display: block;
+  width: 9.2rem;
+  height: 1.46666667rem;
+  line-height: 1.46666667rem;
+  text-align: center;
+  background: #ed1c24;
+  font-size: 0.4rem;
+  color: #ffffff;
+  margin: 0.8rem auto 0;
+}

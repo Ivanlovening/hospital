@@ -1,0 +1,261 @@
+/*address_add||edit*/
+.address_box {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 1.2rem;
+    bottom: 1.2rem;
+    padding-top: 0.26666667rem;
+    box-sizing: border-box;
+}
+.address_box>li{
+    width: 100%;
+    height: 1.33333333rem;
+    line-height: 1.33333333rem;
+    padding: 0 0.66666667rem;
+    box-sizing: border-box;
+    position: relative;
+    background: #fff;
+    font-size: 0.34666667rem;
+    border-bottom: 0.01333333rem solid #f1f2f2;
+}
+.address_box>li .item_label {
+    width: 2.66666667rem;
+    float: left;
+}
+.address_box>li .item_text {
+    width: 5.6rem;
+    height: 1rem;
+    line-height: 1rem;
+    font-size: 0.34666667rem;
+    color: #a3a3a3;
+    text-align: right;
+    right: 0.66666667rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.area{
+    padding: 0.3rem;
+    box-sizing: border-box;
+}
+.address_box>li .btn_get_area {
+    width: 0.76666667rem;
+    height: 1.30666667rem;
+    position: absolute;
+    right: 0.3rem;
+    top: 0;
+    z-index: 2;
+}
+.address_box>li .btn_get_area:after {
+    content: '';
+    width: 0.21333333rem;
+    height: 0.4rem;
+    background: url("../img/icon.png") no-repeat;
+    background-size: 8rem 5.33333333rem;
+    background-position: -6.25333333rem -4.37333333rem;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.btn_reserve {
+    width: 100%;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    text-align: center;
+    background: #ed1c24;
+    color: #fff;
+    font-size: 0.4rem;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.layer_error {
+    width: 4.26666667rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 0.4rem;
+    color: #ffffff;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 0.13333333rem;
+    display: none;
+}
+
+/*address_index*/
+.btn_add_ad {
+    width: 100%;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    text-align: center;
+    color: #f8f8f8;
+    font-size: 0.4rem;
+    background: #ed1c24;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+}
+.container {
+    width: 100%;
+}
+.container .item {
+    width: 100%;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+    position: relative;
+    background: #fff;
+    margin-top: 0.26666667rem;
+}
+.container .item .info_box {
+    width: 100%;
+    padding: 0.29333333rem 0 0 0.74666667rem;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    font-size: 0.37333333rem;
+}
+.container .item .info_box > span {
+    float: left;
+}
+.container .item .info_box .name {
+    min-width: 1.84rem;
+    margin-right: 0.50666667rem;
+}
+.container .item .ad_detail {
+    width: 100%;
+    line-height: 0.48rem;
+    padding: 0 0 0.29333333rem 0.74666667rem;
+    box-sizing: border-box;
+    font-size: 0.32rem;
+    position: relative;
+    border-bottom: 1px solid #f1f2f2;
+}
+.container .item .ad_detail:before {
+    content: '';
+    width: 0.5333333333333333rem;
+    height: 0.5333333333333333rem;
+    background: url("../img/icon.png") no-repeat;
+    background-size: 8rem 5.33333333rem;
+    background-position: 0 -4.293333333333333rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.container .item .act_box {
+    width: 100%;
+    height: 0.74666667rem;
+    line-height: 0.74666667rem;
+    padding: 0.13333333rem 0;
+}
+.container .item .act_box .default_ad {
+    float: left;
+    width: 2.61333333rem;
+    color: #a3a3a3;
+    font-size: 0.32rem;
+    padding-left: 0.74666667rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.container .item .act_box .default_ad .btn_defaultAd {
+    width: 0.37333333rem;
+    height: 0.37333333rem;
+    border: 0.02666667rem solid #989898;
+    border-radius: 0.66666667rem;
+    position: absolute;
+    left: 0;
+    top: 0.17333333rem;
+}
+.container .item .act_box .default_ad.on .btn_defaultAd {
+    border: 0.02666667rem solid #ed1c24;
+    background: #ed1c24 url("../img/icon.png") no-repeat;
+    background-size: 8rem 5.33333333rem;
+    background-position: -6.24rem -1.86666667rem;
+}
+.container .item .act_box .opear_box {
+    float: right;
+}
+.container .item .act_box .opear_box > a {
+    float: left;
+    margin-left: 0.53333333rem;
+    font-size: 0.32rem;
+    color: #a3a3a3;
+    padding-left: 0.48rem;
+    position: relative;
+}
+.container .item .act_box .opear_box .btn_edit:before,
+.container .item .act_box .opear_box .btn_remove:before {
+    content: '';
+    width: 0.53333333rem;
+    height: 0.53333333rem;
+    background: url("../img/icon.png") no-repeat;
+    background-size: 8rem 5.33333333rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.container .item .act_box .opear_box .btn_edit:before {
+    background-position: -7.17333333rem -1.81333333rem;
+}
+.container .item .act_box .opear_box .btn_remove:before {
+    background-position: -7.17333333rem -3.45333333rem;
+}
+.layer_remove {
+    width: 6.4rem;
+    height: 2.4rem;
+}
+.layer_remove h6 {
+    font-size: 0.4rem;
+    width: 100%;
+    line-height: 1.21333333rem;
+    border-bottom: 0.01333333rem solid #ffffff;
+}
+.layer_remove .btn_choice {
+    width: 100%;
+    height: 1.17333333rem;
+    line-height: 1.17333333rem;
+}
+.layer_remove .btn_choice > a {
+    color: #ffffff;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.layer_remove .btn_choice .btn_yes {
+    border-right: 0.01333333rem solid #ffffff;
+    box-sizing: border-box;
+}
+.layer_remove,
+.layer_remove_success,
+.layer_avator {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 0.13333333rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: 100;
+    font-size: 0.4rem;
+    color: #ffffff;
+    text-align: center;
+    display: none;
+}
+.layer_remove_success,
+.layer_avator {
+    width: 4.26666667rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+}

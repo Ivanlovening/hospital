@@ -1,0 +1,1 @@
+day=%E4%B8%8D%E9%99%90&quality=%E4%B8%8D%E9%99%90&mode=%E4%B8%8D%E9%99%90&time%5B0%5D%5Bgt%5D=&time%5B1%5D%5Blt%5D=&money%5B0%5D%5Bgt%5D=&money%5B1%5D%5Blt%5D=

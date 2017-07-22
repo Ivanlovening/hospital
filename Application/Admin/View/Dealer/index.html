@@ -1,0 +1,168 @@
+<extend name="Base/common"/>
+
+
+<block name="script">
+
+</block>
+<block name="style">
+    <style type="text/css">
+        span.rows{
+            margin-right: 350px;!important;
+        }
+
+    </style>
+    <link rel="stylesheet" href="__PUBLIC__/Admin/css/page.css">
+</block>
+
+
+
+<block name="content">
+    <div id="content" class="clearfix">
+        <div class="contentwrapper"><!--Content wrapper-->
+            <div class="heading">
+                <h3>用户管理 >全部用户 </h3>
+            </div><!-- End .heading-->
+
+            <div class="row tableContent1">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="clearfix">
+
+                            </h4>
+                            <a href="#" class="minimize">Minimize</a>
+                        </div>
+                        <div class="content noPad responsive panel-body" tabindex="5000">
+                            <table class="table table-bordered verticalAlignM dynamicTable display table table-bordered contactTable">
+                                <thead>
+                                <tr>
+                                    <th>编号</th>
+                                    <th>用户名</th>
+                                    <th>手机号码</th>
+                                    <th>身份证号码</th>
+                                    <th>过期时间</th>
+                                    <th>注册时间</th>
+                                    <th>等级</th>
+                                    <th>会员编号</th>
+                                    <th>操作</th>
+                                </tr>
+                                </thead>
+                                <tbody id="contentBox">
+                                <volist name="data" id="vo">
+                                    <tr>
+                                        <td>{$vo.id}</td>
+                                        <td>{$vo['account']}</td>
+                                        <td>{$vo.phone}</td>
+                                        <td>{$vo.idcard}</td>
+                                        <td>{$vo.overtime}</td>
+                                        <td>{$vo.time}</td>
+                                        <td>{$vo.level}</td>
+                                        <td>{$vo.no}</td>
+                                        <td>
+                                            <a href="{:U('Dealer/edit', array('id'=>$vo['id']))}">修改</a>
+                                            &nbsp|&nbsp
+                                            <a href="javascript:;" onclick="del(this)" data-id="{$vo.id}">删除</a>
+                                        </td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
+                            <div class="col-lg-12 " id="pageBox" >
+
+                                {$page}
+
+                            </div>
+                            <!-- navigation holder -->
+                            <div class="center">
+                                <div class="holder"></div>
+                            </div>
+                        </div>
+
+                    </div><!-- End .panel -->
+
+                </div><!-- End .span12 -->
+
+            </div><!-- End .row -->
+            <!--End page -->
+
+        </div><!-- End contentwrapper -->
+    </div><!-- End #content -->
+    <!--删除提示框 start modal-->
+    <div class="modal fade" id="alert" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">提示窗口</h4>
+                </div>
+                <div class="modal-body">
+                    <p id="alertText">请在删除前确认?</p>
+                </div>
+                <div class="modal-footer">
+                    <a href="javascript:;" id="del" type="button" class="btn btn-default" >是</a>
+                    <a href="javascript:;" type="button" class="btn btn-primary" data-dismiss="modal">否</a>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <!--删除提示框 End modal-->
+    </div>
+</block>
+
+<block name="script">
+    <script>
+        // 删除
+            var base = "{:U('Admin/Dealer/index')}";
+            var index = base.replace(/index\.html$/, "");
+            var edit = index+"edit/id/";
+            var deleteUrl = index+"del/id/";
+        function del(obj){
+            var $this = $(obj);
+            var _url = deleteUrl+$this.attr('data-id');
+            $('#del').attr('href',_url);
+            $('#alert').modal('show');
+        }
+
+        $(function(){
+            //分页
+            var url = "{:U('index', array('p'=>1))}";
+            var $a = $('#pageBox .page a');
+            $(document).on('click', '#pageBox .page a', function(){
+                var $page = $(this).attr('data-page');
+                var newurl = url.replace(/[0-9]/g, $page);
+                var html;
+                $.get(newurl, "", function(data){
+                    if( data['page'] ){
+                        var $pageBox = $("#pageBox");
+                        $pageBox.empty();
+                        $pageBox.append(data['page']);
+                    }
+
+                    for( var a in data['data'] ) {
+                        //console.log( data['data'][a]['status'] )
+                        html += "<tr>"+
+                            '<td>'+data["data"][a]["id"]+'</td>'+
+                            '<td>'+data['data'][a]['account']+'</td>'+
+                            '<td>'+data['data'][a]['phone']+'</td>'+
+                            '<td>'+data['data'][a]['idcard']+'</td>'+
+                            '<td>'+data['data'][a]['overtime']+'</td>'+
+                            '<td>'+data['data'][a]['time']+'</td>'+
+                            '<td>'+data['data'][a]['level']+'</td>'+
+                            '<td>'+data['data'][a]['no']+'</td>'+
+                            '<td>' +
+                            '<a href="'+edit+data["data"][a]["id"]+'">修改</a>' +
+                            '&nbsp|&nbsp' +
+                            // '<a href="'+images_url+data["data"][a]["line_id"]+'">修改图片</a>' +
+                            //'&nbsp|&nbsp' +
+                            '<a href="javascript:;" data-id="'+data["data"][a]["id"]+'" onclick="del(this)">删除</a></td>'+
+                            "</tr>";
+                    }
+
+                    $('#contentBox').empty();
+                    $('#contentBox').append(html);
+                } )
+            });
+
+        });
+    </script>
+</block>

@@ -1,0 +1,19 @@
+.a {
+  color: blue;
+  font-weight: bold;
+  text-decoration: s underline; }
+  .a .b {
+    color: black; }
+  .a .a {
+    color: #000000; }
+
+.b {
+  color: #000000; }
+
+.test {
+  color: #a1aec7; }
+
+.test1 {
+  color: #000; }
+
+/*# sourceMappingURL=style.css.map */

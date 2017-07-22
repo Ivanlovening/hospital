@@ -1,0 +1,100 @@
+<extend name="Base/common"/>
+
+<block name="nav"></block>
+
+<block name="sidebar"></block>
+
+<block name="content">
+    <body class="loginPage">
+
+        <div class="container">
+
+            <div id="header">
+
+                <div class="row">
+
+                    <div class="navbar">
+                        <div class="container">
+                            <a class="navbar-brand" href="dashboard.html">禅修后台管理系统<span class="slogan"></span></a>
+                        </div>
+                    </div><!-- /navbar -->
+
+                </div><!-- End .row -->
+
+            </div><!-- End #header -->
+
+        </div><!-- End .container -->
+
+        <div class="container">
+
+            <div class="loginContainer">
+                <div class="form-horizontal" id="loginForm" role="form" >
+                    <div class="form-group">
+                        <label class="col-lg-12 control-label" for="username">账号:</label>
+                        <div class="col-lg-12">
+                            <input id="username" type="text" name="username" class="form-control" placeholder="admin" value="admin">
+                            <span class="icon16 icomoon-icon-user right gray marginR10"></span>
+                        </div>
+                    </div><!-- End .form-group  -->
+                    <div class="form-group">
+                        <label class="col-lg-12 control-label" for="password">密码:</label>
+                        <div class="col-lg-12">
+                            <input id="password" type="password" name="password" value="123456" class="form-control" placeholder="123456">
+                            <span class="icon16 icomoon-icon-lock right gray marginR10"></span>
+                            <span class="newuser help-block"><a href="{:U('registeruser')}">注册新账号</a></span>
+                            <span class="forgot help-block"><a href="#">忘记密码?</a></span>
+                        </div>
+                    </div><!-- End .form-group  -->
+
+                    <div class="form-group">
+                        <label class="col-lg-12 control-label" id="labelInfo"></label>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-lg-12 clearfix form-actions">
+                            <div class="checkbox left">
+                                <label><input type="checkbox" id="keepLoged" value="Value" class="styled" name="logged" />  记住密码</label>
+                            </div>
+                            <button class="btn btn-info right" id="loginBtn">
+                                <span class="icon16 icomoon-icon-enter white"></span>
+                                登录
+                            </button>
+                        </div>
+                    </div><!-- End .form-group  -->
+
+                </div>
+            </div>
+
+        </div><!-- End .container -->
+
+    </body>
+</block>
+
+
+<block name="script">
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#loginBtn").click(
+                function(){
+                    $.ajax({
+                        url: "{:U('trylogin')}",
+                        datatype: "json",
+                        type: 'post',
+                        data : { name : document.getElementById("username").value , password : $("#password")[0].value },
+                        success: function (e) {   //成功后回调
+                            $("#labelInfo")[0].innerText = e;
+                            if(e == "验证成功！")
+                            {
+                                self.location = "{:U('Admin/Index/index')}";
+                            }
+                        },
+                        error: function(e){    //失败后回调
+                            $("#labelInfo")[0].innerText = e;
+                        },
+                    });
+                }
+            );
+        });
+    </script>
+</block>
+	

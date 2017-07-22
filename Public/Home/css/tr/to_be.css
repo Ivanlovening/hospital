@@ -1,0 +1,163 @@
+.list_wrap {
+    width: 100%;
+}
+.list_wrap > li {
+    margin-bottom: 0.16rem;
+    background: #fff;
+}
+.list_wrap > li .info_bar {
+    width: 100%;
+    height: 1.066666666666667rem;
+    line-height: 1.066666666666667rem;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+    font-size: 0.32rem;
+}
+.list_wrap > li .info_bar .orderNo_box {
+    width: 60%;
+    float: left;
+    box-sizing: border-box;
+}
+.list_wrap > li .info_bar .status {
+    color: #ed1c24;
+    width: 40%;
+    float: right;
+    text-align: right;
+    box-sizing: border-box;
+}
+.list {
+    width: 100%;
+}
+.list > li {
+    width: 100%;
+    background: #f1f2f2;
+    margin-bottom: 0.1333333333333333rem;
+    padding: 0.2666666666666667rem 0.4rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.list > li .order_img {
+    width: 2.133333333333333rem;
+    float: left;
+    display: block;
+}
+.list > li .info_box {
+    position: absolute;
+    left: 2.96rem;
+    top: 0.2666666666666667rem;
+    right: 0.4rem;
+    bottom: 0.2666666666666667rem;
+}
+.list > li .info_box > h3 {
+    font-size: 0.3466666666666667rem;
+    line-height: 0.64rem;
+}
+.list > li .info_box .introduction {
+    line-height: 0.64rem;
+    width: 100%;
+    font-size: 0.32rem;
+    margin-bottom: 0.42666667rem;
+}
+.price_box {
+    font-size: 0.4rem;
+    line-height: 1;
+}
+.price_box .price {
+    width: 40%;
+    float: left;
+}
+.price_box .num {
+    width: 40%;
+    float: right;
+    font-size: 0.3733333333333333rem;
+    color: #ed1c24;
+    text-align: right;
+}
+.total_box {
+    width: 100%;
+    height: 0.9866666666666666rem;
+    line-height: 0.8533333333333333rem;
+    padding: 0 0.36rem 0.1333333333333333rem 0.4rem;
+    box-sizing: border-box;
+    font-size: 0.2666666666666667rem;
+    border-bottom: 1px solid #f1f2f2;
+}
+.total_box .total_wrap {
+    display: inline-block;
+    float: right;
+}
+.total_box .item_goods {
+    display: inline-block;
+    padding-right: 0.2rem;
+    float: left;
+}
+.total_box .item_num {
+    float: left;
+    display: inline-block;
+    position: relative;
+    padding-left: 0.75rem;
+    box-sizing: border-box;
+}
+.total_box .item_num > span {
+    font-size: 0.48rem;
+    color: #ed1c24;
+}
+.total_box .item_num:before {
+    content: '合计:';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.total_box .item_freight {
+    float: right;
+    display: inline-block;
+    font-size: 0.2666666666666667rem;
+    text-align: right;
+}
+.btn_box {
+    width: 100%;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+}
+.btn_box .btn_wrap {
+    padding: 0.2133333333333333rem 0;
+    display: inline-block;
+    line-height: 0.6666666666666667rem;
+    font-size: 0.32rem;
+    float: right;
+}
+.btn_box .btn {
+    display: inline-block;
+    padding: 0 0.24rem;
+    float: left;
+    margin-left: 0.24rem;
+}
+.btn_box .btn_link {
+    color: #ed1c24;
+}
+.btn_box .btn_confirm {
+    background: #ed1c24;
+    color: #ffffff;
+}
+.pending .btn,
+.to_be_evaluated .btn {
+    display: inline-block;
+    padding: 0 0.22666667rem;
+    height: 0.64rem;
+    border: 0.01333333rem solid #a3a3a3;
+    font-size: 0.32rem;
+    color: #a3a3a3;
+    text-align: center;
+}
+.pending .btn_cancel,
+.to_be_evaluated .btn_cancel {
+    border: 0.01333333rem solid #ed1c24;
+    color: #ed1c24;
+}
+.pending .btn_confirm,
+.to_be_evaluated .btn_evaluated {
+    background: #ed1c24;
+    color: #fff;
+}

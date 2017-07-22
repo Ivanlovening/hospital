@@ -1,0 +1,72 @@
+<block name="nav">
+	<!-- loading animation -->
+    <div id="qLoverlay"></div>
+    <div id="qLbar"></div>
+        
+    <div id="header">
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{:U('Sales/index')}">禅修.<span class="slogan">后台管理系统</span></a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".avbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon16 icomoon-icon-arrow-4"></span>
+                </button>
+            </div> 
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-right usernav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="icon16 icomoon-icon-bell"></span><span class="notification">
+                        </span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="menu">
+                                <ul class="notif">
+                                    <li class="header"><strong>您有</strong><b class="redinfo marg2info">(<?php
+                                        echo getNote('Order', 1)+getNote('Order', 6)
+                                    ?>)</b>条未读消息</li>
+                                    <li>
+                                        <a href="{:U('Order/index')}">
+                                            <span class="icon"><span class="icon16 icomoon-icon-new"></span></span>
+                                            <span class="event">有<b class="redinfo marg2info">
+                                                <?php echo getNote('order', 1); ?>
+                                            </b>个新订单</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{:U('Order/index')}">
+                                            <span class="icon"><span class="icon16  icomoon-icon-cart-remove-2"></span></span>
+                                            <span class="event">取消交易申请<b class="redinfo marg2info">
+                                                <?php echo getNote('order', 6) ?>
+                                            </b></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle avatar" data-toggle="dropdown">
+                            <img src="__PUBLIC__/Admin/images/apple-touch-icon-57-precomposed.png" alt="" class="image" />
+                            <span class="txt" id="mastername">{$_SESSION['shop']['name']}</span>
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="menu">
+                                <ul>
+                                    <li><a href="{:U('Login/modify')}"><span class="icon16 icomoon-icon-cog"></span>修改密码</a></li>
+                                    <php>
+                                        if($_SESSION['shop']['shop_id']==0){
+                                        echo "<li><a href=".U('Login/registeruser')."><span class=\"icon16 icomoon-icon-user-plus\"></span>注册</a></li>";
+                                        }
+                                    </php>
+                                    <li><a href="{:U('Login/logout')}"><span class="icon16 icomoon-icon-exit"></span>退出</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.nav-collapse -->
+        </nav><!-- /navbar --> 
+    </div><!-- End #header -->
+</block>

@@ -1,0 +1,273 @@
+.header {
+  border-bottom: 0.01333333rem solid #f5f5f5;
+}
+.content {
+  width: 100%;
+}
+.content .nav {
+  background: #fff;
+  width: 100%;
+  height: 1.06666667rem;
+  line-height: 1.06666667rem;
+  font-size: .34666667rem;
+  text-align: center;
+  border-bottom: 0.01333333rem solid #f5f5f5;
+}
+.content .nav li a {
+  display: block;
+  color: #000;
+}
+.content .nav .active a {
+  color: #f01616;
+  position: relative;
+}
+.content .nav .active a:after {
+  content: '';
+  width: .88rem;
+  height: .06666667rem;
+  background: #f01616;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+.content .search_box {
+  width: 100%;
+  height: 1.17333333rem;
+  line-height: 1.17333333rem;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+  background: #fff;
+  position: relative;
+}
+.content .search_box .btn_departure {
+  width: 1.73333333rem;
+  display: block;
+  font-size: 0.32rem;
+  color: #a3a3a3;
+  padding-left: 0.4rem;
+  position: relative;
+  float: left;
+}
+.content .search_box .btn_departure:before {
+  content: '';
+  width: 0.30666667rem;
+  height: 0.41333333rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -2.72rem -2.66666667rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.content .search_box .option_departure {
+  position: absolute;
+  left: 0.4rem;
+  right: 0.4rem;
+  top: 100%;
+  z-index: 2;
+  background: #ccc;
+  padding: 0.26666667rem 0.13333333rem 0 0.13333333rem;
+  display: none;
+}
+.content .search_box .option_departure .option {
+  float: left;
+  width: 1.6rem;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  text-align: center;
+  border: 1px solid #f1f2f2;
+  margin-right: 0.18666667rem;
+  font-size: 0.34666667rem;
+  margin-bottom: 0.26666667rem;
+  border-radius: 0.08rem;
+}
+.content .search_box .option_departure .option:nth-child(5) {
+  margin-right: 0;
+}
+.content .search_box .search {
+  float: right;
+  width: 6.77333333rem;
+  height: 0.66666667rem;
+  margin-top: 0.24rem;
+  background: #f5f5f5;
+  border-radius: 0.66666667rem;
+  color: #a0a0a0;
+  font-size: 0.32rem;
+  padding: 0.13333333rem 0.2rem;
+  box-sizing: border-box;
+}
+.content .search_box .search::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: #a0a0a0;
+  text-align: center;
+}
+.content .list_box {
+  padding-top: 0.53333333rem;
+}
+.content .list_box .item {
+  width: 100%;
+  position: relative;
+  padding-bottom: 0.8rem;
+}
+.content .list_box .item .img_box {
+  width: 100%;
+  position: relative;
+}
+.content .list_box .item .img_box .item_img {
+  width: 100%;
+  border-radius: 0.08rem 0.08rem 0 0;
+  overflow: hidden;
+}
+.content .list_box .item .img_box .mask_box {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.content .list_box .item .img_box .mask_box .mask1 {
+  width: 72%;
+  height: 100%;
+}
+.content .list_box .item .img_box .mask_box h6 {
+  font-size: 0.4rem;
+  color: #ffffff;
+  line-height: 1;
+  position: absolute;
+  top: 0.64rem;
+  left: 0.4rem;
+  width: 56%;
+  line-height: 1.6;
+}
+.content .list_box .item .img_box .mask_box .tag {
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+  position: absolute;
+  top: 1.28rem;
+  left: 0;
+}
+.content .list_box .item .img_box .mask_box .tag span {
+  float: left;
+  font-size: 0.34666667rem;
+  color: #fff;
+  margin-right: 0.24rem;
+}
+.content .list_box .item .img_box .mask_box .participate {
+  display: block;
+  width: 2.13333333rem;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  text-align: center;
+  background: rgba(246, 4, 10, 0.7);
+  font-size: 0.32rem;
+  color: #fff;
+  border-radius: 0.74666667rem;
+  position: absolute;
+  left: 0.4rem;
+  bottom: 16%;
+}
+.content .list_box .item .img_box .mask_box .participate:after {
+  content: '';
+  width: 0.10666667rem;
+  height: 0.28rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -3.85333333rem -3.57333333rem;
+  position: absolute;
+  top: 0.25333333rem;
+  right: 0.24rem;
+}
+.content .list_box .item .img_box .fork_num {
+  padding-right: 0.48rem;
+  font-size: 0.32rem;
+  color: #fff;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  position: absolute;
+  right: 0.2rem;
+  top: 0;
+}
+.content .list_box .item .img_box .fork_num:after {
+  content: '';
+  width: 0.4rem;
+  height: 0.34666667rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -2.66666667rem -4.38666667rem;
+  position: absolute;
+  right: 0;
+  top: 0.2rem;
+}
+.content .list_box .item .img_box .transportation {
+  position: absolute;
+  right: 0.2rem;
+  bottom: 0;
+  z-index: 2;
+}
+.content .list_box .item .img_box .transportation span {
+  display: block;
+  width: 0.72rem;
+  height: 0.72rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  float: left;
+}
+.content .list_box .item .img_box .transportation .air {
+  background-position: -0.69333333rem -4.2rem;
+}
+.content .list_box .item .img_box .transportation .ship {
+  background-position: -1.65333333rem -4.2rem;
+}
+.content .list_box .info {
+  width: 100%;
+  padding: 0.08rem 0.21333333rem 0.72rem 0.4rem;
+  box-sizing: border-box;
+  position: relative;
+  background: #fff;
+  font-size: 0.34666667rem;
+  display: block;
+  color: #000;
+}
+.content .list_box .info h6 {
+  font-size: 0.34666667rem;
+  line-height: 0.64rem;
+}
+.content .list_box .info .date {
+  line-height: 0.48rem;
+  color: #a3a3a3;
+}
+.content .list_box .info .price_box {
+  position: absolute;
+  right: 0.21333333rem;
+  bottom: 0.13333333rem;
+  height: 0.58666667rem;
+  line-height: 0.58666667rem;
+}
+.content .list_box .info .price_box .original {
+  font-size: 0.26666667rem;
+  color: #a0a0a0;
+  float: left;
+}
+.content .list_box .info .price_box .original span {
+  text-decoration: line-through;
+}
+.content .list_box .info .price_box .current {
+  font-size: 0.48rem;
+  color: #ed1c24;
+  float: left;
+  padding-right: 0.56rem;
+  position: relative;
+}
+.content .list_box .info .price_box .current i {
+  font-size: 0.26666667rem;
+  line-height: 1;
+  color: #a0a0a0;
+  position: absolute;
+  bottom: 0.08rem;
+  right: 0;
+}

@@ -1,0 +1,2226 @@
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto_fx.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/touch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/fastclick.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/public.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/dropload.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/shop-compiled.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto-slide-transition.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/touch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto_fx.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/img/icon_1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/img/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/img/btn_control.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/zepto-slide-transition.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/public.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/dropload.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T17:34:25+08:00 ] ::1 /hospital/Public/Admin/js/shop-compiled.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/icons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap-theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/themes/base/jquery-ui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/supr-theme/jquery.ui.supr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/css/custom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004160s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:37+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:38+08:00 ] ::1 /hospital/Public/Home/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/supr-theme/jquery.ui.supr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/themes/base/jquery-ui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/icons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap-theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:43+08:00 ] ::1 /hospital/Public/Home/css/custom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap-theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/themes/base/jquery-ui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/icons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/supr-theme/jquery.ui.supr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/custom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001928s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:00:53+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:01:35+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025305s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:01+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:32+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:32+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:32+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:32+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:32+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:33+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:33+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:33+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:33+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:33+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:40+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:40+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:40+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:40+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:02:40+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:03:11+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:03:12+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:03:12+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:03:12+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:03:12+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000231s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003491s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002553s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000368s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:00+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002714s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/form-master/jquery.form.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:06+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/bootstrap/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/jquery-ui-1.9.2/ui/minified/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/libs/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/jquery.mousewheel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/libs/jRespond.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:04:07+08:00 ] ::1 /hospital/Public/Home/js/empty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:03+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:03+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:03+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:03+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:04+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/uniform.default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/toggle-buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/charts/sparkline/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/totop/jquery.ui.totop.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_set.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch_data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/search/tipuesearch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/uniform/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/select/select2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:34+08:00 ] ::1 /hospital/Public/Admin/plugins/forms/togglebutton/jquery.toggle.buttons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:05:54+08:00 ] ::1 /hospital/Public/Admin/plugins/misc/qtip/jquery.qtip.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:07:27+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Public
+
+[ 2017-03-14T18:08:31+08:00 ] ::1 /hospital/Public/Home/images/apple-touch-icon-57-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Public
+

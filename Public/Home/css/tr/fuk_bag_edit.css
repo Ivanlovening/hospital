@@ -1,0 +1,128 @@
+.filter {
+  width: 100%;
+  top: 1.2rem;
+  bottom: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: #fff;
+  margin: auto;
+  z-index: 2;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.filter .search {
+  display: block;
+  width: 8rem;
+  height: 0.8rem;
+  background: #f8f8f8;
+  font-size: 0.4rem;
+  margin: 0 auto;
+  border-radius: 0.26666667rem;
+  margin-top: 0.08rem;
+  text-align: center;
+  color: #a3a3a3;
+}
+.filter .search::-webkit-input-placeholder {
+  color: #a3a3a3;
+  font-size: 0.4rem;
+  text-align: center;
+}
+.filter .option_list {
+  width: 100%;
+  margin-top: 0.13333333rem;
+}
+.filter .option_list > li {
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+  margin-bottom: 0.13333333rem;
+}
+.filter .option_list > li > span {
+  font-size: 0.4rem;
+  line-height: 1.2rem;
+}
+.filter .option_list .range .item_box .no_limit {
+  float: left;
+  width: 1.62666667rem;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  text-align: center;
+  border: 0.02666667rem solid #f1f2f2;
+  font-size: 0.34666667rem;
+  color: #ed1c24;
+  border-radius: 0.06666667rem;
+  margin-right: 0.18666667rem;
+  margin-right: 0.2rem;
+}
+.filter .option_list .range .item_box .price_box {
+  float: left;
+  line-height: 0.74666667rem;
+  color: #a3a3a3;
+}
+.filter .option_list .range .item_box .price_box > i {
+  float: left;
+  font-size: 0.4rem;
+  margin: 0 0.18666667rem;
+}
+.filter .option_list .range .item_box .price_box .item_start,
+.filter .option_list .range .item_box .price_box .item_end {
+  border-radius: 0.06666667rem;
+  border: 1px solid red;
+  float: left;
+}
+.filter .option_list .range .item_box .price_box .item_start .start,
+.filter .option_list .range .item_box .price_box .item_end .start {
+  float: left;
+  width: 1.62666667rem;
+  padding: 0 0.13333333rem 0 0.06666667rem;
+  box-sizing: border-box;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  font-size: 0.32rem;
+  color: #a3a3a3;
+}
+.filter .option_list .range .item_box .price_box .item_start > span,
+.filter .option_list .range .item_box .price_box .item_end > span {
+  font-size: 0.32rem;
+  float: left;
+  padding-right: 0.08rem;
+}
+.filter .option_list .option_wrap {
+  width: 100%;
+}
+.filter .option_list .option_wrap .option {
+  float: left;
+  width: 1.62666667rem;
+  height: 0.74666667rem;
+  line-height: 0.74666667rem;
+  text-align: center;
+  border: 0.02666667rem solid #f1f2f2;
+  font-size: 0.34666667rem;
+  color: #000;
+  border-radius: 0.06666667rem;
+  margin: 0 0.2rem 0.4rem 0;
+}
+.filter .option_list .option_wrap .option:nth-child(5) {
+  margin-right: 0;
+}
+.filter .option_list .no_limit {
+  color: #ed1c24!important;
+}
+.filter .btn_confirm {
+  display: block;
+  width: 9.2rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  background: #ed1c24;
+  font-size: 0.48rem;
+  color: #ffffff;
+  text-align: center;
+  margin: 0.53333333rem auto 0;
+}
+
+#start,#end{
+  width: 2.4rem;
+  text-align: left;
+  text-indent: 0.1rem;
+}

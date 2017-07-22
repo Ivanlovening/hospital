@@ -1,0 +1,87 @@
+.popup_mask {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    display: none;
+}
+.popup h6 {
+    font-size: 0.4rem;
+    color: #fff;
+    padding-left: 0.4rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+.popup {
+    width: 7.22666667rem;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000;
+    z-index: 10001;
+    display: none;
+}
+.popup h2 {
+    line-height: 3.04rem;
+}
+.popup .nav_box {
+    width: 100%;
+    font-size: 0.4rem;
+    color: #ffffff;
+}
+.popup .nav_box h6 {
+    line-height: 1.12rem;
+}
+.popup .nav_box .side_nav {
+    width: 100%;
+    margin-top: 1.4rem;
+}
+.popup .nav_box .side_nav > li {
+    width: 100%;
+}
+.popup .nav_box .side_nav > li > a {
+    display: block;
+    width: 100%;
+    line-height: 1.25333333rem;
+    font-size: 0.4rem;
+    color: #fff;
+    padding-left: 0.4rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.popup .nav_box .side_nav > li > a .btn_show {
+    width: 0.53333333rem;
+    height: 0.53333333rem;
+    background: url("../img/icon_1.png") no-repeat;
+    background-size: 16rem 10.66666667rem;
+    background-position: -0.69333333rem 0;
+    right: 0.45333333rem;
+}
+.popup .nav_box .side_nav > li > a.on {
+    background: #ffffff;
+    color: #000;
+}
+.popup .nav_box .side_nav > li > a.on .btn_show {
+    background-position: 0 0;
+}
+.popup .nav_box .item_list {
+    width: 100%;
+    display: none;
+}
+.popup .nav_box .item_list > li {
+    width: 100%;
+    padding: 0 0.4rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.popup .nav_box .item_list > li > a {
+    display: block;
+    width: 100%;
+    line-height: 1.33333333rem;
+    font-size: 0.32rem;
+    color: #a3a3a3;
+}

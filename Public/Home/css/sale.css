@@ -1,0 +1,183 @@
+/*sale_question*/
+.sale_question {
+    padding-top:0.293333333333333rem;
+    top:1.2rem!important;
+}
+.sale_question .q_a {
+    width:100%;
+    padding:0.5866666666666667rem 0.4rem;
+    box-sizing:border-box;
+    background:#fff;
+    margin-bottom:1px;
+}
+.sale_question .q_a>h4,.sale_question .q_a .a_box {
+    width:100%;
+    padding-left:0.7466666666666667rem;
+    box-sizing:border-box;
+    position:relative;
+}
+.sale_question .q_a>h4 {
+    font-size:0.4rem;
+    color:#ed1c24;
+    line-height:0.4rem;
+    margin-bottom:0.2933333333333333rem;
+}
+.sale_question .q_a>h4 .icon_q,.sale_question .q_a .a_box .icon_a {
+    width:0.4rem;
+    height:0.4rem;
+    background:url("../img/mobileicon.png") no-repeat;
+    background-size:10.66666666666667rem 6.666666666666667rem;
+}
+.sale_question .q_a>h4 .icon_q {
+    background-position:-0.6666666666666667rem -0.0533333333333333rem;
+    left:0;
+}
+.sale_question .q_a>h4>i {
+    left:0.6rem;
+}
+.sale_question .q_a .a_box {
+    font-size:0.32rem;
+    line-height:0.5333333333333333rem;
+}
+.sale_question .q_a .a_box .icon_a {
+    background-position:-0.6666666666666667rem -0.6133333333333333rem;
+    position:absolute;
+    left:0;
+    top:0.0666666666666667rem;
+}
+.sale_question .q_a .a_box>i {
+    position:absolute;
+    left:0.6rem;
+    top:0.0666666666666667rem;
+    line-height:0.4rem!important;
+}
+
+/*sale_seller*/
+.link_seller {
+    position:absolute;
+    left: 0;
+    right: 0;
+    top: 1.2rem;
+    bottom: 0;
+    padding-top:2.746666666666667rem;
+}
+.link_seller >h3 {
+    font-size:0.48rem;
+    line-height:0.9066666666666667rem;
+    text-align:center;
+    margin-bottom:0.8rem;
+}
+.link_seller >.QR {
+    display:block!important;
+    margin:0 auto 0.5333333333333333rem;
+    width:46.66666666666667%;
+}
+.link_seller >div {
+    line-height:0.8rem;
+    text-align:center;
+    font-size:0.3466666666666667rem;
+}
+.link_seller .footer{
+    width:100%;
+    height:1.6rem;
+    background:#f1f2f2;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+.link_seller .footer .btn {
+    width:50%;
+    box-sizing:border-box;
+    position:absolute;
+    bottom:0;
+}
+.link_seller .footer .suggest {
+    padding-right:1px;
+    left:0;
+}
+.link_seller .footer .suggest:after {
+    line-height:1.6rem;
+    text-align:center;
+    content:'投诉建议';
+    width:100%;
+    background:#ed1c24;
+    color:#fff;
+    font-size:0.4rem;
+    display:block;
+}
+.link_seller .footer .question {
+    padding-left:1px;
+    right:0;
+}
+.link_seller .footer .question:after {
+    line-height:1.6rem;
+    text-align:center;
+    content:'常见问题';
+    width:100%;
+    background:#ed1c24;
+    color:#fff;
+    font-size:0.4rem;
+    display:block;
+}
+
+/*sale_suggestion*/
+.suggestion {
+    top:1.2rem!important;
+}
+.suggestion .wrap {
+    width:100%;
+    padding:0.48rem 0.4rem 0.64rem;
+    box-sizing:border-box;
+}
+.suggestion .wrap>h3 {
+    width:100%;
+    padding:0 0.28rem;
+    box-sizing:border-box;
+    line-height:0.6666666666666667rem;
+    color:#ed1c24;
+    font-size:0.32rem;
+    margin-bottom:0.4266666666666667rem;
+}
+.suggestion .wrap>ul {
+    width:100%;
+    margin-bottom:0.6666666666666667rem;
+}
+.suggestion .wrap>ul>li {
+    width:100%;
+    line-height:0.56rem;
+    padding:0.5133333333333333rem 0.28rem;
+    border-bottom:0.0133333333333333rem solid #f1f2f2;
+    box-sizing:border-box;
+}
+.suggestion .wrap>ul>li span {
+    display:block;
+    float:left;
+    width:1.44rem;
+    font-size:0.48rem;
+}
+.suggestion .wrap>ul>li input[type='text'] {
+    width:6.666666666666667rem;
+    float:right;
+    color:#a3a3a3;
+    font-size:0.3466666666666667rem;
+    line-height:0.56rem;
+    text-align:right;
+}
+.suggestion .wrap textarea {
+    width:100%;
+    height:4.54rem;
+    background:#f1f2f2;
+    color:#a3a3a3;
+    line-height:1.5;
+    padding-top:0.1rem;
+    text-indent:0.28rem;
+    margin-bottom:0.8rem;
+}
+.suggestion .wrap .submit {
+    width:100%;
+    background:#ed1c24;
+    color:#f8f8f8;
+    font-size:0.4rem;
+    line-height:1.12rem;
+    text-align:center;
+}

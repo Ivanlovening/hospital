@@ -1,0 +1,84 @@
+.content {
+  position: absolute;
+  top: 1.2rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.content .prompt {
+  width: 100%;
+  padding: 0.56rem 0.66666667rem;
+  box-sizing: border-box;
+  font-size: 0.34666667rem;
+  color: #ed1c24;
+  text-align: center;
+  line-height: 0.48rem;
+  background: #fff;
+  margin: 0.21333333rem 0;
+}
+.content .item_list .item {
+  background: #fff;
+  width: 100%;
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  border: 3px solid #f1f2f2;
+  padding: 0 0.66666667rem;
+  box-sizing: border-box;
+  position:relative;
+}
+.content .item_list .item > span {
+  float: left;
+  font-size: 0.4rem;
+}
+.content .item_list .item > input[type="text"] {
+  width: 60%;
+  line-height: 1.2;
+  color: #a3a3a3;
+  font-size: 0.32rem;
+  text-align: right;
+  position:absolute;
+  right:0.66666667rem;
+  top:0;
+  bottom:0;
+  margin:auto;
+}
+.content .item_list .item .radio_box {
+  float: right;
+}
+.content .item_list .item .radio_box > span {
+  width: 0.96rem;
+  float: left;
+  margin-left: 0.42666667rem;
+  font-size: 0.32rem;
+  text-align: right;
+  position: relative;
+}
+.content .item_list .item .radio_box > span:before {
+  content: '';
+  width: 0.24rem;
+  height: 0.24rem;
+  border: 0.02666667rem solid #f1f2f2;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.radio_box .active:before {
+  background: #ed1c24;
+  border: 0.02666667rem solid #ed1c24;
+}
+.footer {
+  width: 9.2rem;
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  text-align: center;
+  background: #ed1c24;
+  color: #ffffff;
+  font-size: 0.4rem;
+  margin: 0.74666667rem auto 0;
+}

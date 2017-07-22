@@ -1,0 +1,34 @@
+============= 开始执行 ============
+======= 执行时间 2017-03-04 11:42:23=========
+
+'xxxx_order_id 29'
+
+============= 执行结束 ============
+
+
+
+============= 开始执行 ============
+======= 执行时间 2017-03-04 11:42:23=========
+
+'Array
+(
+    [id] => 29
+    [shopid] => 3
+    [order_id] => EFoodPay7101488598943
+    [userid] => 7
+    [createtime] => 2017-03-04 11:42:23
+    [paytime] => 0000-00-00 00:00:00
+    [status] => 1
+    [detail] => [{"sku_id":"1","gid":"1","attr_symbol_path":"1,2","freight":null,"stock":"30","cur_price":"2000.00","src_price":"3000.00","earnest_price":"10.00","earnest_status":"1","shopid":"5","status":"1","sales":"0","id":"1","name":"test","code":"00001","cid":"1","detail":"<p><img src=\\"http:\\/\\/localhost\\/ctrip\\/Public\\/static\\/ueditor\\/php\\/upload\\/\\/20170222\\/14877353735492.jpg\\"\\/><\\/p>","info":"\\u563b\\u563b\\u563b\\u563b","collect":null,"format":null,"attrValue":"18mm\\n\\n,20g","image":"\\/Uploads\\/Goods\\/2017-03-01\\/5f30660b5db34d6d48833d1023345fe2.jpeg","count":"1","src_total":3000,"earnest_total":10,"cartid":"3"}]
+    [count] => 1
+    [money] => 10.00
+    [type] => 1
+    [tracking] => 
+    [address] => 
+)
+'
+
+============= 执行结束 ============
+
+
+

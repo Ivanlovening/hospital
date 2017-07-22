@@ -1,0 +1,102 @@
+.content {
+  position: absolute;
+  top: 1.44rem;
+  left: 0;
+  right: 0;
+  bottom: 1.46666667rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.content .item {
+  background: #fff;
+  width: 100%;
+  line-height: 1.33333333rem;
+  border: 1px solid #f1f2f2;
+  padding: 0 0.66666667rem;
+  box-sizing: border-box;
+}
+.content .item > span {
+  float: left;
+  font-size: 0.4rem;
+}
+.content .item > input[type="text"] {
+  float: right;
+  width: 60%;
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  color: #a3a3a3;
+  font-size: 0.32rem;
+  text-align: right;
+}
+.content .item input::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: #a3a3a3;
+  font-size: 0.32rem;
+}
+.content .item.learning {
+  padding-bottom: 0.13333333rem;
+}
+.content .item.learning > span {
+  width: 100%;
+  float: none;
+}
+.content .item.learning .textarea {
+  width: 100%;
+  padding: 0.13333333rem 0.06666667rem 0.13333333rem;
+  min-height: 1.73333333rem;
+  background: #f8f8f8;
+  font-size: 0.32rem;
+  line-height: 1.1;
+  color: #a1a1a1;
+  outline: none;
+}
+.content .item.frequency_box .frequency {
+  font-size: 0.4rem;
+  display: inline-block;
+  float: right;
+}
+.content .item.frequency_box .frequency input[type="text"] {
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  color: #a3a3a3;
+  font-size: 0.4rem;
+  float: left;
+  text-align: right;
+}
+.content .item.frequency_box .frequency > span {
+  float: left;
+  font-size: 0.34666667rem;
+  color: #000000;
+}
+.footer {
+  width: 9.2rem;
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  text-align: center;
+  background: #ed1c24;
+  color: #ffffff;
+  font-size: 0.4rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  bottom: 0;
+}
+.layer {
+  width: 6.34666667rem;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  text-align: center;
+  font-size: 0.4rem;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border-radius: 0.13333333rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  display: none;
+}

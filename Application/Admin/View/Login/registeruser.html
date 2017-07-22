@@ -1,0 +1,147 @@
+﻿<extend name="Base/common2"/>
+	
+<block name="srciptx">  
+</block>
+	
+<block name="script">
+     <script type="text/javascript">
+		$(document).ready(function(){
+			$("#registerBtn").click( 			
+				function(){			
+					$.ajax({
+						url: "{:U('register_request')}",		
+						datatype: "json",
+						type: 'post',
+						data : { 
+							username : document.getElementById("username").value ,
+							pwd : document.getElementById("pwd").value ,
+							email : document.getElementById("email").value ,
+							phone : document.getElementById("phone").value
+						},
+						success: function (e) {   //成功后回调		
+							
+							$("#labelInfo")[0].innerText = e.info;
+							
+							if(e.status == 1)
+							{
+								$("#labelInfo")[0].innerText += '[3秒后跳转至登陆页面]';
+								setTimeout( "self.location = \"{:U('index')}\"" , 3000);
+							}
+						},
+						error: function(e){    //失败后回调
+							$("#labelInfo")[0].innerText = e;
+						},				
+					});	
+				}	
+			);			
+		});
+		
+    </script> 
+</block>
+
+
+<block name="login">
+<body class="loginPage">
+
+    <div class="container">
+
+        <div id="header">
+
+            <div class="row">
+
+                <div class="navbar">
+                    <div class="container">
+                        <a class="navbar-brand" href="dashboard.html">禅修后台管理系统<span class="slogan"></span></a>
+                    </div>
+                </div><!-- /navbar -->
+
+            </div><!-- End .row -->
+
+        </div><!-- End #header -->
+
+    </div><!-- End .container -->    
+
+    <div class="container">
+        <div class="loginContainer">
+            <div class="form-horizontal" id="loginForm" role="form" >
+                <div class="form-group">
+                    <div class="col-lg-12">
+                    <label class="control-label">账号:</label>
+					<span class="icon16 icomoon-icon-quill right red marginR10" title='必需'></span>
+					</div>
+                    <div class="col-lg-12">
+                        <input id="username" type="text" name="username" class="form-control" placeholder="">
+                        <span class="icon16 icomoon-icon-user right gray marginR10"></span>
+                    </div>
+                </div><!-- End .form-group  -->
+				
+                <div class="form-group">
+                    <div class="col-lg-12">
+                    <label class="control-label">密码:</label>
+					<span class="icon16 icomoon-icon-quill right red marginR10" title='必需'></span>
+					</div>
+                    <div class="col-lg-12">
+                        <input id="pwd" type="password" value="" class="form-control" placeholder="">
+                        <span class="icon16 icomoon-icon-lock right gray marginR10"></span>
+                    </div>
+                </div><!-- End .form-group  -->
+				
+                <div class="form-group">
+                    <div class="col-lg-12">
+                    <label class="control-label">邮箱:</label>
+				<!--	<span class="icon16 icomoon-icon-quill right red marginR10" title='必需'></span> -->
+					</div>
+                    <div class="col-lg-12">
+                        <input id="email" type="email" value="" class="form-control" placeholder="">
+                        <span class="icon16 entypo-icon-email right gray marginR10"></span>
+                    </div>
+                </div><!-- End .form-group  -->
+				
+				
+                <div class="form-group">
+                    <div class="col-lg-12">
+                    <label class="control-label">手机:</label>
+				<!--	<span class="icon16 icomoon-icon-quill right red marginR10" title='必需'></span> -->
+					</div>
+                    <div class="col-lg-12">
+                        <input id="phone" type="tel" value="" class="form-control" placeholder="">
+                        <span class="icon16 icomoon-icon-mobile right gray marginR10"></span>
+                    </div>
+                </div><!-- End .form-group  -->
+				
+				
+                <!-- <div class="form-group">
+                    <div class="col-lg-12">
+                    <label class="control-label">验证码:</label>
+					<span class="icon16 icomoon-icon-quill right red marginR10" title='必需'></span>
+					</div>
+                    <div class="col-lg-12">
+                        <input id="newpwd" type="text" value="" class="form-control" placeholder="请填写获取的验证码">
+                        <span class="icon16 icomoon-icon-cloud right gray marginR10"></span>
+                    </div>
+                </div><!-- End .form-group  -->
+				
+				<div class="form-group">
+					<label class="col-lg-12 control-label" id="labelInfo"></label>
+				</div>
+				
+                <div class="form-group">
+                    <div class="col-lg-12 clearfix form-actions">
+                        <button class="btn btn-primary left" id="registerBtn">
+							<span class="icon16 icomoon-icon-enter white"></span>							
+                            申请
+						</button>
+                        <button class="btn btn-warning right" id="cancelBtn" onclick="javascript:history.back(-1);">
+							<span class="icon16 icomoon-icon-exit white"></span>							
+                            取消
+						</button>
+                    </div>
+                </div><!-- End .form-group  -->				
+            </div>
+        </div>
+
+    </div><!-- End .container -->   
+	
+</body>
+</block> 
+

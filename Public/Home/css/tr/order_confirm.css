@@ -1,0 +1,189 @@
+.content {
+  padding-top: 0.26666667rem;
+}
+.content .order {
+  width: 100%;
+  background: #fff;
+  margin-bottom: 0.1333333333333333rem;
+  padding: 0.2666666666666667rem 0.4rem;
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 0.26666667rem;
+}
+.content .order .order_img {
+  width: 2.133333333333333rem;
+  float: left;
+  display: block;
+}
+.content .order .info_box {
+  position: absolute;
+  left: 2.96rem;
+  top: 0.2666666666666667rem;
+  right: 0.4rem;
+  bottom: 0.2666666666666667rem;
+}
+.content .order .info_box > h3 {
+  font-size: 0.3466666666666667rem;
+  line-height: 0.64rem;
+}
+.content .order .info_box .introduction {
+  line-height: 0.64rem;
+  width: 100%;
+  font-size: 0.32rem;
+  margin-bottom: 0.42666667rem;
+}
+.content .departure {
+  font-size: 0.32rem;
+  line-height: 1;
+}
+.content .departure .address {
+  width: 40%;
+  float: left;
+  position: relative;
+  top: 0.05333333rem;
+  padding-left: 0.37333333rem;
+  color: #f01616;
+}
+.content .departure .address:before {
+  content: '';
+  width: 0.25333333rem;
+  height: 0.33333333rem;
+  background: url("../../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -1.74666667rem -2.66666667rem;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.content .departure .date {
+  width: 40%;
+  float: right;
+  font-size: 0.37333333rem;
+  color: #a3a3a3;
+  text-align: right;
+}
+.content .person > li {
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #f1f2f2;
+  padding: 0.24rem 0.32rem 0.16rem;
+  box-sizing: border-box;
+}
+.content .person .item .item_num {
+  width: 100%;
+  line-height: 0.56rem;
+  font-size: 0.4rem;
+}
+.content .person .item .item_num > span {
+  float: left;
+}
+.content .person .item .item_num > strong {
+  float: right;
+  color: #a3a3a3;
+}
+.content .person .item .price {
+  width: 100%;
+  text-align: right;
+  font-size: 0.32rem;
+  color: #ed1c24;
+  line-height: 0.34666667rem;
+}
+.content .service {
+  margin-top: 0.26666667rem;
+}
+.content .service .insurance {
+  width: 100%;
+  padding: 0.18666667rem 0.26666667rem 0.24rem;
+  background: #fff;
+  box-sizing: border-box;
+  position: relative;
+  border-bottom: 1px solid #f1f2f2;
+}
+.content .service .insurance .insurance_num {
+  font-size: 0.48rem;
+  line-height: 0.58666667rem;
+}
+.content .service .insurance .insurance_num > span {
+  float: left;
+}
+.content .service .insurance .insurance_num > strong {
+  float: right;
+}
+.content .service .insurance .price {
+  font-size: 0.34666667rem;
+  line-height: 0.53333333rem;
+}
+.content .service .insurance .price .kind {
+  float: left;
+}
+.content .service .insurance .price .total {
+  float: right;
+  color: #ed1c24;
+}
+.content .service .invoice {
+  width: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 0.26666667rem;
+  height: 1.6rem;
+  line-height: 1.6rem;
+  font-size: 0.4rem;
+}
+.content .service .invoice > span {
+  float: left;
+}
+.content .service .invoice > strong {
+  float: right;
+  font-size: 0.34666667rem;
+  color: #a3a3a3;
+}
+.footer {
+  width: 100%;
+  height: 1.066666666666667rem;
+  line-height: 1.066666666666667rem;
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  font-size: 0.32rem;
+}
+.footer .total_wrap {
+  display: inline-block;
+  float: right;
+}
+.footer .total_wrap .item_goods {
+  display: inline-block;
+  padding-right: 0.2rem;
+  float: left;
+}
+.footer .total_wrap .item_num {
+  float: left;
+  display: inline-block;
+  position: relative;
+  padding-left: 0.75rem;
+  box-sizing: border-box;
+}
+.footer .total_wrap .item_num > span {
+  font-size: 0.48rem;
+  color: #ed1c24;
+}
+.footer .total_wrap .item_num:before {
+  content: '合计:';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.footer .total_wrap .btn_submit {
+  float: right;
+  display: inline-block;
+  font-size: 0.3733333333333333rem;
+  text-align: right;
+  padding: 0 0.44rem;
+  background: #ed1c24;
+  color: #f5f5f5;
+  margin-left: 0.5333333333333333rem;
+}

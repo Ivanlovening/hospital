@@ -1,0 +1,15 @@
+.nav-tabs {
+  height: 41px;
+  margin-top: 20px; }
+
+.modal-title {
+  height: 30px; }
+
+.table-striped tbody tr:nth-child(odd) th {
+  text-align: center; }
+
+.table-striped tbody tr td {
+  padding-left: 15px;
+  text-align: left; }
+
+/*# sourceMappingURL=Common.css.map */

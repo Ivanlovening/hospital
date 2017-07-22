@@ -1,0 +1,10 @@
+.glyphicon {
+    -webkit-font-smoothing: antialiased;
+}
+.glyphicon-menu-hamburger:before {
+    content: "\e236";
+}
+/*div.uploader {
+	width: 0px;height: 0px;border:none;	
+}
+div.uploader input{width: auto;}*/

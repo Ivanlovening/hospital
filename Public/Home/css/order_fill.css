@@ -1,0 +1,321 @@
+.content {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1.2rem;
+  bottom: 1.06666667rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-bottom: 0.8rem;
+}
+.content .default_info {
+  width: 100%;
+  padding: 0.18666667rem 0.8rem;
+  box-sizing: border-box;
+  background: #fff;
+  line-height: 0;
+}
+.content .default_info .departure_date {
+  float: left;
+}
+.content .default_info .departure_date > span {
+  display: block;
+  font-size: 0.4rem;
+  line-height: 0.50666667rem;
+}
+.content .default_info .departure_date > strong {
+  display: block;
+  font-size: 0.32rem;
+  color: #a3a3a3;
+  line-height: 0.48rem;
+}
+.content .default_info .departure_ad {
+  float: right;
+  padding-left: 0.37333333rem;
+  line-height: 0.98666667rem;
+  font-size: 0.32rem;
+  position: relative;
+  display: inline-block;
+}
+.content .default_info .departure_ad:before {
+  content: '';
+  width: 0.33333333rem;
+  height: 0.33333333rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -6.28rem -3.56rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.content .item_list {
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+  margin-top: 0.26666667rem;
+}
+.content .item_list .item {
+  width: 100%;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+  background: #fff;
+  margin-bottom: 0.26666667rem;
+}
+.item_linker .linker,
+.item_tourist .tourist {
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  border-bottom: 1px solid #f1f2f2;
+  font-size: 0.48rem;
+}
+.item_linker .name,
+.item_linker .phone_num,
+.item_tourist .adult,
+.item_tourist .child {
+  height: 1.33333333rem;
+  line-height: 1.33333333rem;
+  border-bottom: 1px solid #f1f2f2;
+}
+.item_list .item  span {
+  float: left;
+  font-size: 0.4rem;
+}
+.item_list .item input[type="text"],.item_list .item strong{
+  float: right;
+  width: 30%;
+  font-size: 0.4rem;
+  color: #a3a3a3;
+  text-align: right;
+  line-height: 1.33333333rem;
+}
+.item_list .item .btn_edit{
+  float: left;
+  width: 30%;
+  font-size: 0.4rem;
+  color: #6684a9;
+  text-align: right;
+  line-height: 1.33333333rem;
+  display: none;
+}
+.btn_edit1{
+    float: right;
+    width: 30%;
+    font-size: 0.4rem;
+    color: #6684a9;
+    text-align: right;
+    line-height: 1.33333333rem;
+
+}
+.item_list .item input::-webkit-input-placeholder{
+  font-size: 0.4rem;
+  color: #a3a3a3;
+  text-align: right;
+}
+.btn_edit{
+
+}
+.btn_select_tourists {
+  font-size: 0.34666667rem;
+  color: #6684a9;
+  line-height: 1.33333333rem;
+  padding-left: 0.61333333rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  text-align: right;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.btn_select_tourists:before {
+  content: '';
+  width: 0.49333333rem;
+  height: 0.49333333rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -5.29333333rem -2.68rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.offers_box {
+  width: 100%;
+  padding: 0 0.66666667rem;
+  line-height: 1.06666667rem;
+  box-sizing: border-box;
+  position: relative;
+  background: #fff;
+  font-size: 0.4rem;
+}
+.offers_box .btn_offers {
+  color: #a3a3a3;
+  font-size: 0.34666667rem;
+  padding-right: 0.37333333rem;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  text-align: right;
+}
+.offers_box .btn_offers:after {
+  content: '';
+  width: 0.26666667rem;
+  height: 0.4rem;
+  background: url("../img/icon.png") no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -6.25333333rem -4.37333333rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.insurance_box {
+  width: 100%;
+  margin-top: 0.26666667rem;
+  background: #fff;
+}
+.insurance_box .insurance {
+  width: 100%;
+  border: 1px solid #f1f2f2;
+  padding: 0.14666667rem 0.66666667rem;
+  box-sizing: border-box;
+}
+.insurance_box .insurance > span {
+  font-size: 0.4rem;
+  line-height: 0.42666667rem;
+  display: block;
+}
+.insurance_box .insurance .unit_price {
+  font-size: 0.26666667rem;
+  color: #a3a3a3;
+  line-height: 0.32rem;
+}
+.insurance_box .insurance .unit_price > span,
+.insurance_box .insurance .unit_price > strong,
+.insurance_box .insurance .unit_price > i {
+  float: left;
+  display: block;
+}
+.insurance_box .insurance .unit_price > strong,
+.insurance_box .insurance .unit_price > i {
+  color: #f01627;
+}
+.insurance_box .item_insurance_wrap {
+  width: 100%;
+  background: #fff;
+}
+.insurance_box .item_insurance_wrap .item_insurance {
+  width: 100%;
+  padding: 0.34666667rem 0.66666667rem;
+  box-sizing: border-box;
+  position: relative;
+  border-bottom: 0.01333333rem solid #f1f2f2;
+}
+.insurance_box .item_insurance_wrap .item_insurance > span {
+  font-size: 0.34666667rem;
+  color: #f01616;
+  float: left;
+  text-decoration: underline;
+  line-height: 0.48rem;
+}
+.insurance_box .item_insurance_wrap .item_insurance > a {
+  width: 0.45333333rem;
+  height: 0.45333333rem;
+  border: 0.02666667rem solid #f1f2f2;
+  border-radius: 0.08rem;
+  float: right;
+}
+.insurance_box .item_insurance_wrap .item_insurance.on > a {
+  border: 0.02666667rem solid #f01616;
+  background: #f01616;
+}
+.insurance_box .info {
+  width: 100%;
+  padding: 0.32rem 0.66666667rem;
+  box-sizing: border-box;
+  position: relative;
+  line-height: 0.48rem;
+  font-size: 0.32rem;
+  color: #a3a3a3;
+  border-bottom: 0.01333333rem solid #f1f2f2;
+}
+.insurance_box .accept {
+  width: 100%;
+  padding: 0.26666667rem 0.66666667rem;
+  box-sizing: border-box;
+  position: relative;
+  border-bottom: 0.01333333rem solid #f1f2f2;
+  line-height: 0.48rem;
+  font-size: 0.34666667rem;
+}
+.insurance_box .accept > span {
+  color: #6583ab;
+}
+.insurance_box .accept .btn_accept {
+  width: 0.45333333rem;
+  height: 0.45333333rem;
+  border: 0.02666667rem solid #f1f2f2;
+  border-radius: 0.08rem;
+  position: absolute;
+  right: 0.66666667rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.insurance_box .accept .btn_accept.on {
+  border: 0.02666667rem solid #f01616;
+  background: #f01616;
+}
+.footer {
+  width: 100%;
+  height: 1.06666667rem;
+  line-height: 1.06666667rem;
+  background: #fff;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.footer .icon_transportation {
+  width: 1.06666667rem;
+  height: 1.06666667rem;
+  background: url(../img/icon.png) no-repeat;
+  background-size: 8rem 5.33333333rem;
+  background-position: -6.93333333rem 0;
+  position: absolute;
+  left: 0.4rem;
+  bottom: 0.4rem;
+}
+.footer .btn_confirm {
+  width: 4.26666667rem;
+  height: 1.06666667rem;
+  text-align: center;
+  font-size: 0.4rem;
+  background: #f1f2f2;
+  color: #000;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.footer .btn_confirm.on {
+  background: #f01616;
+  color: #ffffff;
+}
+.footer .amount {
+  font-size: 0.32rem;
+  position: absolute;
+  left: 1.86666667rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.footer .amount > span,
+.footer .amount > strong {
+  color: #f01616;
+}
+.footer .amount > strong {
+  font-size: 0.48rem;
+}
